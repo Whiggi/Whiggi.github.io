@@ -42,7 +42,7 @@
     margin-right: 180px;
     margin-left: 180px;
     margin-bottom: 1px;
-  } */
+  }
   .bold {
     font-weight: bold;
   }
@@ -58,7 +58,7 @@ h2 {
 }
   img {
     width: 100%;
-    height: 50%;
+    height: auto;
   }
   body {
     background-color: grey;
@@ -68,8 +68,8 @@ h2 {
     border-radius: 50%;
   }
   .thumbnail {
-  width: 50%
-  height: 50%
+  width: 50%;
+  height: auto;
 }
 .link {
   height: 30px;
