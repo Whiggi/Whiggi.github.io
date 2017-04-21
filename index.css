@@ -1,0 +1,94 @@
+    .bigbox {
+  border-width: 0px;
+  border-color: grey;
+  border-type: solid;
+  border-margin: 0px;
+  width: 900px;
+}
+  .injected-text {
+    margin-top: 20px
+  }
+  .box {
+  margin-right: 100px;
+  margin-left: 100px;
+  }
+    .box2 {
+    border-width: 0px;
+    border-color: gray;
+  }
+  .grey-box {
+    background-color: lightgrey;
+}
+.boxheader {
+    padding: 6px;
+    width: 900px;
+}
+    .darkgrey-box {
+    background-color: grey;
+  }
+  .white-box {
+    background-color: white;
+   width: 900;
+}
+  .second-box {
+  margin-right: 100px;
+  margin-left: 100px;
+  }
+/* dafuq is this for?
+.end-line {
+    background-color: lightgrey;
+    padding: 1px;
+    margin-top: 1px;
+    margin-right: 180px;
+    margin-left: 180px;
+    margin-bottom: 1px;
+  } */
+  .bold {
+    font-weight: bold;
+  }
+  p {
+    font-family: Arial;
+  }
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+h2 {
+  font-size: 50px;
+}
+  img {
+    width: 100%;
+    height: 100%;
+  }
+  body {
+    background-color: grey;
+  }
+  .smaller-image {
+    width: 200px;
+    border-radius: 50%;
+  }
+  .thumbnail {
+  width: 50%
+}
+.link {
+  height: 30px;
+  width: 30px;
+}
+LEFT {
+    float: left;
+    max-width: 300px;
+    margin: 0;
+    padding: 1em;
+}
+RIGHT {
+    margin-left: 150px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+.header {
+  position: fixed;
+}
+.content {
+  margin-top: 0px;
+}
